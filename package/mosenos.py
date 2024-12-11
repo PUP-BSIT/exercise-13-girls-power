@@ -51,7 +51,7 @@ def mosenos_info():
             case 4:
                 os.system('cls')
                 print("----Comment from teamate----")
-                print(" ")
+                print("Good luck on your goal! ")
 
             case 5:
                 os.system('cls')
