@@ -9,7 +9,7 @@ def menu():
         print("4. Comment from Esparagoza")
         print("5. Comment from Alejandro")
         print("6. Comment from Mosenos")
-        print("7. Exit")  # Add an option for exiting
+        print("7. Exit")  
         choice = input("Choose an option: ")
         
         if choice == "1":
@@ -27,9 +27,8 @@ def menu():
         elif choice == '4':
             os.system('cls')
             print("------ Comment from Esparagoza ------")   
-                os.system('cls')
-                print ("------ Comment from Esparagoza ------") 
-                print ('Goodluck to your goal')  
+            print ("------ Comment from Esparagoza ------") 
+            print ('Goodluck to your goal')  
         elif choice == '5':
             os.system('cls')
             print("------ Comment from Alejandro ------")
