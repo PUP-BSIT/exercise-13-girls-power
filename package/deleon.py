@@ -38,7 +38,7 @@ def jasmine_info():
 
         elif choice == '5':
             print("\n--- Comment from Gomez ---")
-            print("---")
+            print("Nice Work!")
 
         elif choice == '6':
             print("\n--- Comment from Mosenos ---")
