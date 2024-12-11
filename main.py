@@ -1,3 +1,4 @@
+from package import alejandro
 
 def main_menu():
     while True:
@@ -12,7 +13,7 @@ def main_menu():
         choice = input("Choose an option: ")
         
         if choice == '1':
-            print("-----------------------------------")  
+            alejandro.aleck_info()
 
         elif choice == '2':
             print("-------------------------------")
