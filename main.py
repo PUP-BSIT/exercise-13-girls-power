@@ -1,4 +1,4 @@
-from package import alejandro, gomez, esparagoza
+from package import alejandro, gomez, esparagoza, mosenos
 
 def main_menu():
     while True:
@@ -25,15 +25,13 @@ def main_menu():
             gomez.menu()
 
         elif choice == '5':
-            print("---------------------------------------")     
+            mosenos.mosenos_info()  
 
-          
         elif choice == '6':
             print("\nExiting program.\n")
             break
         else:
             print("\nInvalid option. Please try again.\n")
-
 
 if __name__ == "__main__":
     main_menu()
