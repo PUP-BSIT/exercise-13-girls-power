@@ -60,7 +60,7 @@ def esparagoza_menu():
             case 4:
                 os.system('cls')
                 print('Comment from De Leon:')
-                print()
+                print("Goodluck to your goal!")
 
                 input('Press Enter to Continue')
                 print()
