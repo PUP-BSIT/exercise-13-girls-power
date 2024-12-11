@@ -13,10 +13,10 @@ def mosenos_info():
         print("---Loise Menu---")
         print("1. Basic Info")
         print("2. Goals")
-        print("3. Comment from Teamates")
-        print("4. Comment from Teamates")
-        print("5. Comment from Teamates")
-        print("6. Comment from Teamates")
+        print("3. Comment from Teamate 1")
+        print("4. Comment from Teamate 2")
+        print("5. Comment from Teamate 3")
+        print("6. Comment from Teamate 4")
         print("7. Exit")
 
         choice = int(input("Enter your choice: "))
@@ -43,9 +43,11 @@ def mosenos_info():
 
             case 3:
                 os.system('cls')
-                print("----Comment from teamate----")
+                print("----Comment from teamate 1----")
                 print(" ")
-
+                print("Hi! that is a very simple and realistic goal. Good luck!")
+                print("- Aleck")
+                
             case 4:
                 os.system('cls')
                 print("----Comment from teamate----")
