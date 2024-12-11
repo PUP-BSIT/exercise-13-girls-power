@@ -30,7 +30,7 @@ def jasmine_info():
 
         elif choice == '3':
             print("\n--- Comment from Alejandro ---")
-            print("---")
+            print("That is a nice goal. Goodluck!")
 
         elif choice == '4':
             print("\n--- Comment from Esparagoza ---")
