@@ -52,6 +52,7 @@ def esparagoza_menu():
                 os.system('cls')
                 print('Comment from Alejandro:')
                 print()
+                print("Hello, that is a nice goal. Good luck!")
 
                 input('Press Enter to Continue')
                 print()
