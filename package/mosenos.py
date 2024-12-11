@@ -57,7 +57,7 @@ def mosenos_info():
                 os.system('cls')
                 print("----Comment from teamate----")
                 print(" ")
-                print("be specific with the name of your teammates")
+                print("great job")
 
             case 6:
                 os.system('cls')
