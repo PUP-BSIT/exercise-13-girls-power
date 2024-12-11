@@ -42,7 +42,7 @@ def jasmine_info():
 
         elif choice == '6':
             print("\n--- Comment from Mosenos ---")
-            print("---")
+            print("Hello, Jasmine. Goodluck!")
 
         elif choice == '7':
             print("\nExiting program. Goodbye!\n")
