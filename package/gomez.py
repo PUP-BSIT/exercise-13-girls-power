@@ -22,7 +22,8 @@ def menu():
             print ("------ Comment from De Leon ------")
         elif choice == '4':
                 os.system('cls')
-                print ("------ Comment from Esparagoza ------")   
+                print ("------ Comment from Esparagoza ------") 
+                print ('Goodluck to your goal')  
         elif choice == '5':
             os.system('cls')
             print ("------ Comment from Alejandro------")
