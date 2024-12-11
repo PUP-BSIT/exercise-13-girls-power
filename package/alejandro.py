@@ -39,7 +39,7 @@ def aleck_info():
 
         elif choice == '5':
            os.system('cls')
-           print ("------ Comment from Gomez ------") 
+           print ("Great work!") 
 
         elif choice == '6':
            os.system('cls')
