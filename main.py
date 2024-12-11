@@ -1,4 +1,4 @@
-from package import alejandro, gomez
+from package import alejandro, gomez, esparagoza
 
 def main_menu():
     while True:
@@ -19,11 +19,10 @@ def main_menu():
             print("-------------------------------")
             
         elif choice == '3':
-            print("-------------------------------")
+            esparagoza.esparagoza_menu()
 
         elif choice == '4':
             gomez.menu()
-            print("------------------------")
 
         elif choice == '5':
             print("---------------------------------------")     
