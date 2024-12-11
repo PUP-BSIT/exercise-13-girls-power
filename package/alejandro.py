@@ -39,7 +39,7 @@ def aleck_info():
             print ("Great Work!")   
 
         elif choice == '5':
-           os.system('cls')
+           os.system('cls') 
            print ("Great work!") 
 
         elif choice == '6':

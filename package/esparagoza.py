@@ -52,6 +52,7 @@ def esparagoza_menu():
                 os.system('cls')
                 print('Comment from Alejandro:')
                 print()
+                print("Hello, that is a nice goal. Good luck!")
 
                 input('Press Enter to Continue')
                 print()
@@ -59,7 +60,7 @@ def esparagoza_menu():
             case 4:
                 os.system('cls')
                 print('Comment from De Leon:')
-                print()
+                print("Goodluck to your goal!")
 
                 input('Press Enter to Continue')
                 print()
@@ -68,6 +69,7 @@ def esparagoza_menu():
                 os.system('cls')
                 print('Comments from Gomez:')
                 print()
+                print('Keep up the good work!')
 
                 input('Press Enter to Continue')
                 print()
@@ -76,6 +78,7 @@ def esparagoza_menu():
                 os.system('cls')
                 print('Comments from Mosenos:')
                 print()
+                print("Hello, Mika! Nice to know you.")
 
                 input('Press Enter to Continue')
                 print()
