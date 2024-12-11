@@ -22,17 +22,26 @@ def menu():
         elif choice == '3':
             os.system('cls')
             print("------ Comment from De Leon ------")
+            print ("------ Comment from De Leon ------")
+            print ("You can do it.")
         elif choice == '4':
             os.system('cls')
             print("------ Comment from Esparagoza ------")   
+                os.system('cls')
+                print ("------ Comment from Esparagoza ------") 
+                print ('Goodluck to your goal')  
         elif choice == '5':
             os.system('cls')
             print("------ Comment from Alejandro ------")
+            print ("------ Comment from Alejandro------")
+            print ("Hi! That's nice to know. ")
         elif choice == '6':
             os.system('cls')
             print("------ Comment from Mosenos ------")
         elif choice == '7': 
             print("\nExiting program.\n")
             break
+            print ("------ Comment from Mosenos ------") 
+            print ("Hi, Ashley!") 
         else:
             print("Invalid choice. Please try again.")
