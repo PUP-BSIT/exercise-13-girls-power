@@ -69,6 +69,7 @@ def esparagoza_menu():
                 os.system('cls')
                 print('Comments from Gomez:')
                 print()
+                print('Keep up the good work!')
 
                 input('Press Enter to Continue')
                 print()
