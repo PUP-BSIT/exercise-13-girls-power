@@ -62,4 +62,5 @@ def mosenos_info():
                 os.system('cls')
                 print("----Comment from teamate----")
                 print(" ")
+                print("Super Good work!")
 
