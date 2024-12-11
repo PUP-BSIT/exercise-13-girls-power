@@ -31,5 +31,6 @@ def menu():
         elif choice == '6':
             os.system('cls')
             print ("------ Comment from Mosenos ------") 
+            print ("Hi, Ashley!") 
         else:
             print("Invalid choice. Please try again.")
