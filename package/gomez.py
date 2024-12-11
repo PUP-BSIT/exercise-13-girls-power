@@ -20,6 +20,7 @@ def menu():
         elif choice == '3':
             os.system('cls')
             print ("------ Comment from De Leon ------")
+            print ("You can do it.")
         elif choice == '4':
                 os.system('cls')
                 print ("------ Comment from Esparagoza ------") 
