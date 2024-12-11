@@ -43,6 +43,7 @@ def aleck_info():
         elif choice == '6':
            os.system('cls')
            print ("------ Comment from Mosenos ------") 
+           print ("Good job, Aleck!")
            
         elif choice == '7':
             print("\nExiting program.\n")
