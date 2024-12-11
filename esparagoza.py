@@ -77,6 +77,7 @@ def esparagoza_menu():
                 os.system('cls')
                 print('Comments from Mosenos:')
                 print()
+                print("Hello, Mika! Nice to know you.")
 
                 input('Press Enter to Continue')
                 print()
